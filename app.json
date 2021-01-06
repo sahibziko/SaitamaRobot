@@ -36,7 +36,7 @@
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
          "required": false,
-         "value": "sqldbtype://username:pw@hostname:port/db_name"
+         "value": "sqldbtype://root:SsSsSs1212Ss@13.74.242.73:3306/userbot"
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
